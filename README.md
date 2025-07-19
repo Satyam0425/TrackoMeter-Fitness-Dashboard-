@@ -15,3 +15,35 @@ TrackoMeter is a fitness analytics dashboard built in Power BI to visualize and 
 - Figma (Dashboard Layout Planning)
 
 ## 📸 Dashboard Preview
+
+
+
+## 🧠 Key Insights Delivered
+- Total steps walked over time
+- Relationship between sleep hours and calorie burn
+- Workout intensity and activity correlation
+- Personalized performance tracking
+
+---
+
+## 📁 Project Files
+- `TrackoMeter.pbix` – The Power BI project file
+- `screenshots/` – Dashboard preview images
+- `README.md` – Project documentation (this file)
+
+---
+
+## 👤 Author
+**Satyam Shende**  
+[LinkedIn](https://www.linkedin.com/in/satyamshende)
+
+---
+
+## 📝 How to Use
+1. Clone or download the repo
+2. Open `TrackoMeter.pbix` in Power BI Desktop
+3. Explore visuals, filters, and KPIs
+
+---
+
+⭐ Star this repo if you like it!
