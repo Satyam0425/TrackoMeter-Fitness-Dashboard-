@@ -11,7 +11,8 @@ TrackoMeter is a fitness analytics dashboard built in Power BI to visualize and 
 
 ## 🧰 Tools & Technologies
 - Power BI (Data Visualization)
-- Microsoft Excel (Data Source)
+- Data Source (Kagle)
+- Microsoft Excel/Power Query Editor (Data Cleaning)
 - Figma (Dashboard Layout Planning)
 
 ## 📸 Dashboard Preview
